@@ -14,7 +14,7 @@ Você vai criar suas primeiras páginas web, utilizando HTML, CSS, JS e assim ap
 
 Se você trabalha em outras áreas como marketing digital, experiência do usuário (UX), design, ou áreas correlatas, essa formação te ajudará a entender melhor como a área de tecnologia funciona e, assim, você consegue se comunicar melhor com a área de desenvolvimento.
 
-Esta formação faz parte do programa ONE, parceria de [Alura](https://www.alura.com.br/oracle-next-education "Página da Alura do Projeto ONE")Alura + [Oracle](https://www.oracle.com/br/index.html "Página Inicial da Oracle")
+Esta formação faz parte do programa ONE, parceria de [Alura](https://www.alura.com.br/oracle-next-education "Página da Alura do Projeto ONE") + [Oracle](https://www.oracle.com/br/index.html "Página Inicial da Oracle")
 
 ## Planos de estudos
 
